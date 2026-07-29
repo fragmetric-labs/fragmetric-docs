@@ -283,7 +283,7 @@
         },
         {
           "anchor": "Community",
-          "href": "https://discord.gg/fragmetric",
+          "href": "https://discord.gg/U4N3wEZ4rt",
           "icon": "discord"
         },
         {
@@ -307,7 +307,7 @@
     "links": [
       {
         "label": "Community",
-        "href": "https://discord.gg/fragmetric"
+        "href": "https://discord.gg/U4N3wEZ4rt"
       }
     ],
     "primary": {
@@ -319,7 +319,7 @@
   "footer": {
     "socials": {
       "x": "https://x.com/fragmetric",
-      "discord": "https://discord.gg/fragmetric",
+      "discord": "https://discord.gg/U4N3wEZ4rt",
       "github": "https://github.com/fragmetric-labs"
     }
   }
